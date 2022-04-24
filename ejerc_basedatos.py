@@ -72,7 +72,7 @@ def consultar_alumno(nombre,apellido):
 
 
     if usuario == usuario and usuario != None:
-        print(f"se encuentra registrado '{nombre}','{apellido}'")
+        print(f"se encuentraa registrado '{nombre}','{apellido}'")
         
 
     else:
